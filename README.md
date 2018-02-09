@@ -1,8 +1,8 @@
 # pantheon_pug
 
-Languages/MarkUp: HTML, CSS, JavaScript, PHP, MySQL 
+Languages/MarkUp: HTML, CSS, JavaScript, PHP 7, MySQL 
 
-Frameworks: Bootstrap, VUE, Laravel
+Frameworks: Bootstrap, VUE, Laravel 5.6
 
 Purpose: This is a website that provides group forming functionality based on expressed similarities between gamers as well as group maintenance features such as event planning, participation tracking, etc. Initially this site will serve the Pantheon: Rise of the Fallen gaming community.
 
